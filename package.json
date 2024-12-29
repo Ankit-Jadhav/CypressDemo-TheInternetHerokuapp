@@ -1,0 +1,21 @@
+{
+  "name": "internetherokuappcypressproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@4tw/cypress-drag-drop": "^2.2.5",
+    "cypress": "^13.17.0",
+    "cypress-xpath": "^2.0.1"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "http-digest-client": "^0.0.3"
+  }
+}
